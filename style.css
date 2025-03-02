@@ -3,7 +3,7 @@ html {
 }
 
 body {
-     background-image: url("..avenida-mungi/Images/japan-street-daytime.jpg");
+     background-image: url("/avenida-mungi/Images/japan-street-daytime.jpg");
      background-size: cover;
      height: 100%;
 }
