@@ -1,0 +1,92 @@
+html {
+     height: 100%;
+}
+
+body {
+     background-image: url("../Arte/Images/japan-street-daytime.jpg");
+     background-size: cover;
+     height: 100%;
+}
+
+.calle {
+     position: relative;
+     top: 0%;
+     left: 0%;
+     height: 100%;
+     width: 100%;
+}
+
+.calle #chino {
+     width: 10%;
+     position: absolute;
+     top: 70%;
+     left: 30%;
+}
+
+.calle #avion {
+     width: 15%;
+     position: absolute;
+     top: 8%;
+     left: 40%;
+}
+
+.calle #nyan {
+     width: 10%;
+     position: absolute;
+     top: 5%;
+     left: 50.72%;
+}
+
+.calle #sans {
+     width: 1%;
+     position: absolute;
+     top: 40.4%;
+     left: 41.7%;
+}
+
+.calle #wing {
+     width: 7%;
+     position: absolute;
+     top: 5%;
+     left: 37%;
+     transform: scaleX(-1);
+}
+
+.calle #hk {
+     width: 10%;
+     position: absolute;
+     top: 73%;
+     left: 52%;
+}
+
+.calle #ryu {
+     width: 35%;
+     position: absolute;
+     top: 60%;
+     left: 60%;
+     transform: scaleX(-1);
+}
+
+.calle #mecha {
+     width: 5%;
+     position: absolute;
+     top: 100%;
+     left: 40%;
+}
+
+
+
+.calle #solid {
+     background-image: url("../Arte/Images/Cardboard_Box.png");
+     background-size: contain;
+     position: absolute;
+     width: 15%;
+     height: 30%;
+     top: 85%;
+     left: 10%;
+ }
+ 
+ #solid:hover {
+     background-image: url("../Arte/Images/Untitled-2.png");
+     background-size: contain;
+ }
